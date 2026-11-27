@@ -80,3 +80,8 @@ export STAR1AGE_API_KEY="sk-..."
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+## Live Model Health & Guides
+
+- **Wanyra Live Model Availability & Verification**: [https://api.star1age.cn/status](https://api.star1age.cn/status) (`https://api.star1age.cn/api/portal/public-api/model-health`)
+- **Integration Guides (Cherry Studio / Cursor / Cline)**: [https://api.star1age.cn/guides](https://api.star1age.cn/guides)
